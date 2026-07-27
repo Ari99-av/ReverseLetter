@@ -2,6 +2,9 @@ package com.example.util;
 
 public class StringUtil {
     public static String reversedLetters(String str) {
+        if (str == null) {
+            return null;
+        }
         char[] letters = str.toCharArray();
 
         int left = 0;
