@@ -3,7 +3,7 @@ package com.example.util;
 public class StringUtil {
     public static String reversedLetters(String str) {
         if (str == null) {
-            return null;
+            return "";
         }
         char[] letters = str.toCharArray();
 
