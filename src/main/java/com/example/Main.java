@@ -1,6 +1,6 @@
-package com;
+package com.example;
 
-import com.util.StringUtil;
+import com.example.util.StringUtil;
 
 public class Main {
     public static void main(String[] args) {

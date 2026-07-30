@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ee606d-d377-4901-bacf-3bd57d79cd41" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/util/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/util/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/util/StringUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/util/StringUtilTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,41 +34,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "JUnit.StringUtilTest.reverseCase.executor": "Run",
-    "JUnit.StringUtilTest.reverseEmptyString.executor": "Run",
-    "JUnit.StringUtilTest.reverseLettersWithSymbols.executor": "Run",
-    "JUnit.StringUtilTest.reverseNoLetters.executor": "Run",
-    "JUnit.StringUtilTest.reverseNormalString.executor": "Run",
-    "JUnit.StringUtilTest.reverseNull.executor": "Run",
-    "JUnit.StringUtilTest.reverseOnlyLetter.executor": "Run",
-    "JUnit.StringUtilTest.reverseString.executor": "Run",
-    "Maven. [compile].executor": "Run",
-    "Maven. [test].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "dev",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Клиент/IdeaProjects/ReverseLetters/src/test",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Клиент/IdeaProjects/ReverseLetters/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "com.koroche.lms.tracker.settings.AppSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilTest.reverseCase.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilTest.reverseEmptyString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilTest.reverseLettersWithSymbols.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilTest.reverseNoLetters.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilTest.reverseNormalString.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilTest.reverseNull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilTest.reverseOnlyLetter.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StringUtilTest.reverseString.executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven. [test].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Клиент/IdeaProjects/ReverseLetters/src/test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Клиент/IdeaProjects/ReverseLetters/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.koroche.lms.tracker.settings.AppSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Клиент\IdeaProjects\ReverseLetters\src\test" />

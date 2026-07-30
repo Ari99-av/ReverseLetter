@@ -1,4 +1,4 @@
-package com.util;
+package com.example.util;
 
 public class StringUtil {
     public static String reversedLetters(String str) {
